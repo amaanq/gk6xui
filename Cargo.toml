@@ -1,0 +1,10 @@
+[package]
+name = "gk6xui"
+version = "0.1.0"
+edition = "2021"
+authors = [
+	"Amaan Qureshi <amaanq12@gmail.com>",
+	"Amaan Bari <abaricomp@gmail.com>",
+]
+
+[dependencies]
