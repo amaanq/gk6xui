@@ -1,10 +1,34 @@
 [package]
 name = "gk6xui"
 version = "0.1.0"
-edition = "2021"
 authors = [
 	"Amaan Qureshi <amaanq12@gmail.com>",
 	"Amaan Bari <abaricomp@gmail.com>",
 ]
+edition = "2021"
+description = "A GUI for GK6X keyboards"
+readme = "https://github.com/amaanq/gk6xui/README.md"
+homepage = "https://github.com/amaanq/gk6xui"
+repository = "https://github.com/amaanq/gk6xui"
+license = "GPL-3.0-only"
+license-file = "LICENSE"
+publish = true
 
 [dependencies]
+
+[profile.dev]
+opt-level = 0
+debug = true
+debug-assertions = true
+overflow-checks = true
+lto = false
+panic = 'unwind'
+incremental = true      # Enable incremental compilation.
+codegen-units = 256
+rpath = false
+
+[profile.release]
+strip = true      # Automatically strip symbols from the binary.
+lto = true        # Link-time optimization.
+opt-level = "s"   # Optimize for speed.
+codegen-units = 1 # Maximum size reduction optimizations.
