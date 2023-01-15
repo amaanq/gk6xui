@@ -1,0 +1,1460 @@
+[
+	{
+		"modelID": 655491210,
+		"firmwareID": "0x02104401",
+		"name": "TK09R-104 RGB-US",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491211,
+		"firmwareID": "0x90201110",
+		"name": "TK09R-105 RGB-DE",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491212,
+		"firmwareID": "0x90201110",
+		"name": "TK09R-105 RGB-FR",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491213,
+		"firmwareID": "0x90201110",
+		"name": "TK09R-105 RGB-ES",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491214,
+		"firmwareID": "0x90201110",
+		"name": "TK09R-105 RGB-IT",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491218,
+		"firmwareID": "0x13100103",
+		"name": "TK09R-LC-V3",
+		"LEType": "3"
+	},
+	{
+		"modelID": 655491223,
+		"firmwareID": "0x02104401",
+		"name": "TK09R-104 RGB-RU",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491224,
+		"firmwareID": "0x02104401",
+		"name": "TK09R-104 RGB-UK",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491226,
+		"firmwareID": "0x13100201",
+		"name": "TK09R-MousePad",
+		"LEType": "2"
+	},
+	{
+		"modelID": 655491227,
+		"firmwareID": "0x04100101",
+		"name": "TK09R-G18-3330",
+		"LEType": "1"
+	},
+	{
+		"modelID": 655491235,
+		"firmwareID": "0x02104402",
+		"name": "TK09R-104 RGBS-US",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491245,
+		"firmwareID": "0x02104401",
+		"name": "TK09R-104 RGB-KR",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801794,
+		"firmwareID": "0x90201110",
+		"name": "TK09R-105 RGB-EN",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801810,
+		"firmwareID": "0x93215020",
+		"name": "Dierya DK66",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801811,
+		"firmwareID": "0x02104601",
+		"name": "Dierya DK61",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801816,
+		"firmwareID": "0x90217120",
+		"name": "DK66pro(Bluetooth5.1)",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801821,
+		"firmwareID": "0x90206120",
+		"name": "DK61(wired)",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801823,
+		"firmwareID": "0x90406121",
+		"name": "DK61(Bluetooth5.1)",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802005,
+		"firmwareID": "0x90222121",
+		"name": "980",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802004,
+		"firmwareID": "0x90222120",
+		"name": "980 ",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802007,
+		"firmwareID": "0x90222321",
+		"name": "75",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802006,
+		"firmwareID": "0x90222320",
+		"name": "75 ",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802001,
+		"firmwareID": "0x90222310",
+		"name": "75X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801995,
+		"firmwareID": "0x90222110",
+		"name": "980X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802000,
+		"firmwareID": "0x94222310",
+		"name": "75 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801994,
+		"firmwareID": "0x94222110",
+		"name": "980 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802003,
+		"firmwareID": "0x90221111",
+		"name": "63X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656802002,
+		"firmwareID": "0x94221111",
+		"name": "63XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801936,
+		"firmwareID": "0x97217610",
+		"name": "96XS-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801937,
+		"firmwareID": "0x95217610",
+		"name": "96X-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801939,
+		"firmwareID": "0x95217611",
+		"name": "96 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801938,
+		"firmwareID": "0x97217611",
+		"name": "96S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801997,
+		"firmwareID": "0x90218014",
+		"name": "71 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801996,
+		"firmwareID": "0x94218014",
+		"name": "71S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801993,
+		"firmwareID": "0x90218028",
+		"name": "68 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801985,
+		"firmwareID": "0x90217610",
+		"name": "96 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801984,
+		"firmwareID": "0x94217612",
+		"name": "96S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801992,
+		"firmwareID": "0x90218027",
+		"name": "GK68 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801976,
+		"firmwareID": "0x94221710",
+		"name": "MT40S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801990,
+		"firmwareID": "0x94220310",
+		"name": "80M RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801989,
+		"firmwareID": "0x94220410",
+		"name": "68W RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801988,
+		"firmwareID": "0x94220411",
+		"name": "68M RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801987,
+		"firmwareID": "0x90221110",
+		"name": "63 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801986,
+		"firmwareID": "0x94221110",
+		"name": "63S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801983,
+		"firmwareID": "0x90218013",
+		"name": "68 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801982,
+		"firmwareID": "0x94218013",
+		"name": "68S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801981,
+		"firmwareID": "0x90219210",
+		"name": "64 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801980,
+		"firmwareID": "0x94219210",
+		"name": "64S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801979,
+		"firmwareID": "0x90219010",
+		"name": "61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801978,
+		"firmwareID": "0x94219010",
+		"name": "61S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801974,
+		"firmwareID": "0x97221710",
+		"name": "MT40S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801949,
+		"firmwareID": "0x95219510",
+		"name": "84 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801948,
+		"firmwareID": "0x97219510",
+		"name": "84S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801890,
+		"firmwareID": "0x90219510",
+		"name": "84 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801889,
+		"firmwareID": "0x94219510",
+		"name": "84S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801973,
+		"firmwareID": "0x94220320",
+		"name": "DT80M RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801971,
+		"firmwareID": "0x97219010",
+		"name": "GK61XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801972,
+		"firmwareID": "0x95219010",
+		"name": "GK61X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801969,
+		"firmwareID": "0x94219024",
+		"name": "61S-UK RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801970,
+		"firmwareID": "0x90219025",
+		"name": "61-UK RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000002,
+		"firmwareID": "0x90219024",
+		"name": "61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000001,
+		"firmwareID": "0x94219023",
+		"name": "61S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000017,
+		"firmwareID": "0x95216412",
+		"name": "GK64 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000016,
+		"firmwareID": "0x97216412",
+		"name": "GK64S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801894,
+		"firmwareID": "0x90219610",
+		"name": "GK108 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801893,
+		"firmwareID": "0x94219610",
+		"name": "GK108S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000013,
+		"firmwareID": "0x97220310",
+		"name": "DT80M RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000010,
+		"firmwareID": "0x94220421",
+		"name": "NT68M RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000009,
+		"firmwareID": "0x94220420",
+		"name": "NT68W RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801951,
+		"firmwareID": "0x95219610",
+		"name": "GK108 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801950,
+		"firmwareID": "0x97219610",
+		"name": "GK108S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801904,
+		"firmwareID": "0x90219620",
+		"name": "GK108 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801903,
+		"firmwareID": "0x94219620",
+		"name": "GK108S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801920,
+		"firmwareID": "0x92217622",
+		"name": "GK96 RGB ",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801919,
+		"firmwareID": "0x94217622",
+		"name": "GK96S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801964,
+		"firmwareID": "0x90218026",
+		"name": "GK68 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801963,
+		"firmwareID": "0x94218026",
+		"name": "GK68S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801960,
+		"firmwareID": "0x95218013",
+		"name": "GK68 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801959,
+		"firmwareID": "0x97218013",
+		"name": "GK68S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000004,
+		"firmwareID": "0x90219224",
+		"name": "64 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000003,
+		"firmwareID": "0x94219224",
+		"name": "64S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000008,
+		"firmwareID": "0x95217811",
+		"name": "GK87 RGB",
+		"LEType": "old GK87"
+	},
+	{
+		"modelID": 900000007,
+		"firmwareID": "0x97217811",
+		"name": "GK87S RGB",
+		"LEType": "old GK87"
+	},
+	{
+		"modelID": 900000006,
+		"firmwareID": "0x90217822",
+		"name": "GK87 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 900000005,
+		"firmwareID": "0x94217822",
+		"name": "GK87S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801968,
+		"firmwareID": "0x95219010",
+		"name": "GK61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801967,
+		"firmwareID": "0x97219010",
+		"name": "GK61S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801966,
+		"firmwareID": "0x95221110",
+		"name": "GK63 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801965,
+		"firmwareID": "0x97221110",
+		"name": "GK63S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801962,
+		"firmwareID": "0x90219721",
+		"name": "AC61M-UK RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801961,
+		"firmwareID": "0x94219721",
+		"name": "AC61M-UK RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801958,
+		"firmwareID": "0x97220411",
+		"name": "NT68M RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801957,
+		"firmwareID": "0x94217623",
+		"name": "SK96S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801956,
+		"firmwareID": "0x90217220",
+		"name": "SK21 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801955,
+		"firmwareID": "0x94217221",
+		"name": "SK21S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801954,
+		"firmwareID": "0x94217220",
+		"name": "SK21S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801953,
+		"firmwareID": "0x97217211",
+		"name": "GK21S",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801952,
+		"firmwareID": "0x97217210",
+		"name": "GK21S",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801947,
+		"firmwareID": "0x95219110",
+		"name": "AK84",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801946,
+		"firmwareID": "0x97219110",
+		"name": "AK84S",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801945,
+		"firmwareID": "0x95218310",
+		"name": "GK96L-X",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801944,
+		"firmwareID": "0x97218310",
+		"name": "GK96L-XS",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801943,
+		"firmwareID": "0x95217810",
+		"name": "GK87 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801942,
+		"firmwareID": "0x97217810",
+		"name": "GK87S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801940,
+		"firmwareID": "0x97220410",
+		"name": "NT68W RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801935,
+		"firmwareID": "0x95218012",
+		"name": "AK68X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801934,
+		"firmwareID": "0x97218012",
+		"name": "AK68XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801933,
+		"firmwareID": "0x95218011",
+		"name": "GK68X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801932,
+		"firmwareID": "0x97218011",
+		"name": "GK68XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801931,
+		"firmwareID": "0x95217411",
+		"name": "AK61X",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801930,
+		"firmwareID": "0x97217411",
+		"name": "AK61XS",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801929,
+		"firmwareID": "0x95216411",
+		"name": "AK64X",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801928,
+		"firmwareID": "0x97216411",
+		"name": "AK64XS",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801927,
+		"firmwareID": "0x95218010",
+		"name": "GK73 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801926,
+		"firmwareID": "0x97218010",
+		"name": "GK73S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801925,
+		"firmwareID": "0x95216410",
+		"name": "GK64X-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801924,
+		"firmwareID": "0x97216410",
+		"name": "GK64XS-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801923,
+		"firmwareID": "0x95206110",
+		"name": "GK61-RGB-V2",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801922,
+		"firmwareID": "0x95217410",
+		"name": "GK61X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801921,
+		"firmwareID": "0x97217410",
+		"name": "GK61XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801918,
+		"firmwareID": "0x92217611",
+		"name": "AK96X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801917,
+		"firmwareID": "0x94217611",
+		"name": "AK96XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801916,
+		"firmwareID": "0x90218012",
+		"name": "AK68X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801915,
+		"firmwareID": "0x94218012",
+		"name": "AK68XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801914,
+		"firmwareID": "0x90216412",
+		"name": "AK64X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801913,
+		"firmwareID": "0x94216411",
+		"name": "AK64XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801912,
+		"firmwareID": "0x90217411",
+		"name": "AK61X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801911,
+		"firmwareID": "0x94217411",
+		"name": "AK61XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801910,
+		"firmwareID": "0x90219110",
+		"name": "AK84 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801909,
+		"firmwareID": "0x94219110",
+		"name": "AK84S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801908,
+		"firmwareID": "0x90218025",
+		"name": "AK68",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801907,
+		"firmwareID": "0x94218025",
+		"name": "AK68S",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801906,
+		"firmwareID": "0x94219223 ",
+		"name": "KB64",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801905,
+		"firmwareID": "0x90219223",
+		"name": "KB64",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801902,
+		"firmwareID": "0x90218024",
+		"name": "AK68 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801901,
+		"firmwareID": "0x94218024",
+		"name": "AK68S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801900,
+		"firmwareID": "0x94219222",
+		"name": "AK64S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801899,
+		"firmwareID": "0x90219222",
+		"name": "AK64 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801898,
+		"firmwareID": "0x94219022",
+		"name": "AK61S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801897,
+		"firmwareID": "0x90219023",
+		"name": "AK61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801896,
+		"firmwareID": "0x90219720",
+		"name": "AC61M",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801895,
+		"firmwareID": "0x94219720",
+		"name": "AC61M",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801892,
+		"firmwareID": "0x90219520",
+		"name": "AK84 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801891,
+		"firmwareID": "0x94219520",
+		"name": "AK84S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801888,
+		"firmwareID": "0x94217821",
+		"name": "SK87S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801887,
+		"firmwareID": "0x94219221",
+		"name": "SK64S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801886,
+		"firmwareID": "0x90219221",
+		"name": "SK64 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801885,
+		"firmwareID": "0x94219021",
+		"name": "SK61S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801884,
+		"firmwareID": "0x90219022",
+		"name": "SK61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801883,
+		"firmwareID": "0x92217621",
+		"name": "SK103 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801882,
+		"firmwareID": "0x94217621",
+		"name": "SK103S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801881,
+		"firmwareID": "0x92217620",
+		"name": "SK96 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801880,
+		"firmwareID": "0x94217620",
+		"name": "SK96S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801879,
+		"firmwareID": "0x90217821",
+		"name": "SK87 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801878,
+		"firmwareID": "0x90219021",
+		"name": "SK61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801877,
+		"firmwareID": "0x92218920",
+		"name": "GX66 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801876,
+		"firmwareID": "0x94218920",
+		"name": "GX66S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801875,
+		"firmwareID": "0x90219220",
+		"name": "SK64X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801874,
+		"firmwareID": "0x94219220",
+		"name": "SK64XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801873,
+		"firmwareID": "0x90219020",
+		"name": "SK61X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801872,
+		"firmwareID": "0x94219020",
+		"name": "SK61XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801871,
+		"firmwareID": "0x90217810",
+		"name": "GK87 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801870,
+		"firmwareID": "0x90217820",
+		"name": "SK87 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801869,
+		"firmwareID": "0x94217820",
+		"name": "SK87S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801868,
+		"firmwareID": "0x92218910",
+		"name": "GS66 RGB LED",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801867,
+		"firmwareID": "0x94218910",
+		"name": "GS66S RGB LED",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801865,
+		"firmwareID": "0x92218510",
+		"name": "GK98 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801864,
+		"firmwareID": "0x90218023",
+		"name": "SK73 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801863,
+		"firmwareID": "0x94218023",
+		"name": "SK73S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801862,
+		"firmwareID": "0x90218022",
+		"name": "SK71 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801861,
+		"firmwareID": "0x94218022",
+		"name": "SK71S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801860,
+		"firmwareID": "0x90218020",
+		"name": "SK70 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801859,
+		"firmwareID": "0x94218020",
+		"name": "SK70S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801858,
+		"firmwareID": "0x90218021",
+		"name": "SK68 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801857,
+		"firmwareID": "0x94218021",
+		"name": "SK68S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801856,
+		"firmwareID": "0x92218310",
+		"name": "GK96L-X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801855,
+		"firmwareID": "0x94218310",
+		"name": "GK96L-XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801854,
+		"firmwareID": "0x92217610",
+		"name": "96 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801853,
+		"firmwareID": "0x94217610",
+		"name": "96S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801851,
+		"firmwareID": "0x90216820",
+		"name": "Nature 86Key RGB-Mac",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801850,
+		"firmwareID": "0x90216820",
+		"name": "Knight 86Key RGB-Mac",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801849,
+		"firmwareID": "0x90216820",
+		"name": "Nature 86Key RGB-DE",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801848,
+		"firmwareID": "0x90216820",
+		"name": "Knight 86Key RGB-DE",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801847,
+		"firmwareID": "0x90216820",
+		"name": "Nature 86Key RGB-NE",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801846,
+		"firmwareID": "0x90216820",
+		"name": "Knight 86Key RGB-NE",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801845,
+		"firmwareID": "0x90216820",
+		"name": "Nature 86Key RGB-EN",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801844,
+		"firmwareID": "0x90216820",
+		"name": "Knight 86Key RGB-EN",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801841,
+		"firmwareID": "0x90218011",
+		"name": "GK68X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801840,
+		"firmwareID": "0x90218010",
+		"name": "73 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801837,
+		"firmwareID": "0x90217410",
+		"name": "GK61X RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801836,
+		"firmwareID": "0x90216411",
+		"name": "GK64X-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801835,
+		"firmwareID": "0x94217410",
+		"name": "GK61XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801834,
+		"firmwareID": "0x94218011",
+		"name": "GK68XS RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801833,
+		"firmwareID": "0x94218010",
+		"name": "73S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801832,
+		"firmwareID": "0x90217710",
+		"name": "RANGER 89Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801831,
+		"firmwareID": "0x90217710",
+		"name": "RANGER 87Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801830,
+		"firmwareID": "0x94217810",
+		"name": "GK87S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801829,
+		"firmwareID": "0x94217710",
+		"name": "RANGERS 89Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801828,
+		"firmwareID": "0x94217710",
+		"name": "RANGERS 87Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801827,
+		"firmwareID": "0x90216820",
+		"name": "Nature 86Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801826,
+		"firmwareID": "0x90216424",
+		"name": "SK66-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801825,
+		"firmwareID": "0x90216423",
+		"name": "SK64-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801824,
+		"firmwareID": "0x90417320",
+		"name": "SK84S-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801822,
+		"firmwareID": "0x90406120",
+		"name": "SK61S-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801820,
+		"firmwareID": "0x90206120",
+		"name": "SK61-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801819,
+		"firmwareID": "0x90216422",
+		"name": "SK66S-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801818,
+		"firmwareID": "0x90216421",
+		"name": "SK64S-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801817,
+		"firmwareID": "0x90217210",
+		"name": "GK21S-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801809,
+		"firmwareID": "0x90217010",
+		"name": "Woo-dy 67Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801808,
+		"firmwareID": "0x90216820",
+		"name": "Knight 86Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801807,
+		"firmwareID": "0x90216720",
+		"name": "Knight 22Key RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801806,
+		"firmwareID": "0x90216420",
+		"name": "SK64XS-2RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801805,
+		"firmwareID": "0x90216410",
+		"name": "GK64XS-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801804,
+		"firmwareID": "0x90216221",
+		"name": "SK87-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801803,
+		"firmwareID": "0x90216220",
+		"name": "SK87S-2RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801802,
+		"firmwareID": "0x90206412",
+		"name": "GK64 RGB V1",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801801,
+		"firmwareID": "0x90206410",
+		"name": "GK64 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801800,
+		"firmwareID": "0x90215920",
+		"name": "SK104 2RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801798,
+		"firmwareID": "0x90206110",
+		"name": "GK61S RGB LED",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801797,
+		"firmwareID": "0x90215022",
+		"name": "SK66-2RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801796,
+		"firmwareID": "0x90215021",
+		"name": "SK66S-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801795,
+		"firmwareID": "0x90215022",
+		"name": "SK66-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 656801793,
+		"firmwareID": "0x90215021",
+		"name": "SK66S-2RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491249,
+		"firmwareID": "0x90206411",
+		"name": "GK64S RGB V2",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491248,
+		"firmwareID": "0x90214810",
+		"name": "GK99-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491247,
+		"firmwareID": "0x90206120",
+		"name": "SK66S-RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491246,
+		"firmwareID": "0x90206111",
+		"name": "GK61-RGB-V2",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491244,
+		"firmwareID": "0x02106103",
+		"name": "XK-86 NOLED-US",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491239,
+		"firmwareID": "0x90206411",
+		"name": "GK64S",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491238,
+		"firmwareID": "0x90206110",
+		"name": "GK61S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491237,
+		"firmwareID": "0x02106101",
+		"name": "XK-86 RGB-EN",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491233,
+		"firmwareID": "0x02106101",
+		"name": "XK-86 RGB-DE",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491232,
+		"firmwareID": "0x02106101",
+		"name": "XK-86 RGB-NE",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491231,
+		"firmwareID": "0x02106101",
+		"name": "XK-86 RGB-MAC",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491229,
+		"firmwareID": "0x90210020",
+		"name": "XK-86 RGBS",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491200,
+		"firmwareID": "0x90211410",
+		"name": "GK84S RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491190,
+		"firmwareID": "0x02106102",
+		"name": "XK-22 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491180,
+		"firmwareID": "0x02106101",
+		"name": "XK-86 RGB-US",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491165,
+		"firmwareID": "0x02104301",
+		"name": "SK104 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491140,
+		"firmwareID": "0x02103702",
+		"name": "GK68 RGB",
+		"LEType": ""
+	},
+	{
+		"modelID": 655491117,
+		"firmwareID": "0x02104601",
+		"name": "SK61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491085,
+		"firmwareID": "0x02103701",
+		"name": "GK61 RGB",
+		"LEType": "0"
+	},
+	{
+		"modelID": 655491084,
+		"firmwareID": "0x02103901",
+		"name": "GK64 RGB",
+		"LEType": "0"
+	}
+]

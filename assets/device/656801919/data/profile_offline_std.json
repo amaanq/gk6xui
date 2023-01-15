@@ -1,0 +1,28 @@
+{
+    "GUID": "",
+    "ModeIndex": 1,
+    "Name": "标准配置",
+    "Active": 0,
+    "DriverLE": [
+        {
+            "GUID": "5C821781-BCE5-56C7-70AB-C5555A8991A6",
+            "Name": "光谱循环 96"
+        },
+	    {
+            "GUID": "90F1DFED-5C11-438a-A835-74C6E3403524",
+            "Name": "GK96XS-1"
+        },
+        {
+            "GUID": "014D58A9-7E44-43c7-BA92-1063623B02DD",
+            "Name": "RGB渐变"
+        },
+        {
+            "GUID": "7B8EE725-5CCC-A77A-BDBA-31E99088CB60",
+            "Name": "风车 96"
+        },
+        {
+            "GUID": "B09FC694-4B0E-4fcb-83E7-8EB4A77E566A",
+            "Name": "彩虹波"
+        }
+    ]
+}
